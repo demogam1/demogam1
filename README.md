@@ -1,8 +1,6 @@
 **Administrateur Systèmes & Réseaux** orienté Linux, automatisation et virtualisation.  
 Diplômé Architecte en technologies numériques (RNCP 7) à **42 Nice**.
 
-📍 Nice, France  
-
 ---
 
 ### 🚀 Profil & Objectifs
