@@ -1,18 +1,18 @@
-**Administrateur Systèmes & Réseaux** orienté Linux, automatisation et virtualisation[cite: 1].  
-Diplômé Architecte en technologies numériques (RNCP 7) à **42 Nice**[cite: 1].
+**Administrateur Systèmes & Réseaux** orienté Linux, automatisation et virtualisation.  
+Diplômé Architecte en technologies numériques (RNCP 7) à **42 Nice**.
 
-📍 Nice, France[cite: 1]  
+📍 Nice, France  
 
 ---
 
 ### 🚀 Profil & Objectifs
 
-Administrateur systèmes avec près de 3 ans d'expérience en environnement d'entreprise[cite: 1]. En charge de l'exploitation et de la supervision quotidienne, j'interviens rapidement pour résoudre les incidents et garantir la disponibilité des services[cite: 1].
+Administrateur systèmes avec près de 3 ans d'expérience en environnement d'entreprise. En charge de l'exploitation et de la supervision quotidienne, j'interviens rapidement pour résoudre les incidents et garantir la disponibilité des services.
 
-- 🐧 **Cœur d'expertise :** Administration Linux (Debian, Ubuntu), scripting et conteneurisation[cite: 1].
-- 🤖 **Automatisation :** Industrialisation des tâches d'exploitation avec Ansible, Bash et Python[cite: 1].
-- 📈 **MCO & Observabilité :** Supervision proactive via Zabbix et NinjaOne, gestion des sauvegardes Veeam[cite: 1].
-- 💬 **Langues :** Français, Anglais (avancé), Russe (intermédiaire)[cite: 1].
+- 🐧 **Cœur d'expertise :** Administration Linux (Debian, Ubuntu), scripting et conteneurisation.
+- 🤖 **Automatisation :** Industrialisation des tâches d'exploitation avec Ansible, Bash et Python.
+- 📈 **MCO & Observabilité :** Supervision proactive via Zabbix et NinjaOne, gestion des sauvegardes Veeam.
+- 💬 **Langues :** Français, Anglais (avancé), Russe (intermédiaire).
 
 ---
 
@@ -43,17 +43,17 @@ Administrateur systèmes avec près de 3 ans d'expérience en environnement d'en
 
 ### 💼 Expérience récente
 
-**Adrasys** — *Administrateur Systèmes & Réseaux* (janv. 2023 – janv. 2026)[cite: 1]
-- **MCO & Déploiement :** Gestion et exploitation d'un parc mixte Linux / Windows Server[cite: 1].
-- **Conteneurs & Automatisation :** Déploiement de services applicatifs sous Docker et configuration via Ansible[cite: 1].
-- **Supervision & Résolution :** Pilotage des alertes sous Zabbix et NinjaOne, gestion des tickets N1/N2 et procédures techniques[cite: 1].
-- **Sécurité & Sauvegarde :** Déploiement des solutions Bitdefender GravityZone / ESET et plans de PRA/PCA via Veeam Backup[cite: 1].
+**Adrasys** — *Administrateur Systèmes & Réseaux* (janv. 2023 – janv. 2026)
+- **MCO & Déploiement :** Gestion et exploitation d'un parc mixte Linux / Windows Server.
+- **Conteneurs & Automatisation :** Déploiement de services applicatifs sous Docker et configuration via Ansible.
+- **Supervision & Résolution :** Pilotage des alertes sous Zabbix et NinjaOne, gestion des tickets N1/N2 et procédures techniques.
+- **Sécurité & Sauvegarde :** Déploiement des solutions Bitdefender GravityZone / ESET et plans de PRA/PCA via Veeam Backup.
 
 ---
 
 ### 📊 Activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=demogam1&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques de demogam1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demogam1&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=demogam1&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques de demogam1" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=demogam1&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
 </p>
