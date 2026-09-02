@@ -54,6 +54,6 @@ Administrateur systèmes avec près de 3 ans d'expérience en environnement d'en
 ### 📊 Activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=demogam1&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques de demogam1" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=demogam1&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=demogam1&theme=tokyonight" alt="Détails de demogam1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=demogam1&theme=tokyonight" alt="Langages par repo" />
 </p>
