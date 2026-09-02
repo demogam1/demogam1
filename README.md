@@ -50,10 +50,8 @@ Administrateur systèmes avec près de 3 ans d'expérience en environnement d'en
 - **Sécurité & Sauvegarde :** Déploiement des solutions Bitdefender GravityZone / ESET et plans de PRA/PCA via Veeam Backup.
 
 ---
-
 ### 📊 Activité GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=demogam1&theme=tokyonight" alt="Détails de demogam1" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=demogam1&theme=tokyonight" alt="Langages par repo" />
+  <img src="https://ghchart.rshah.org/2496ED/demogam1" alt="Graphe des contributions de demogam1" />
 </p>
